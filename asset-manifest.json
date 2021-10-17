@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/gawein-web/static/css/main.77878fb9.chunk.css",
+    "main.js": "/gawein-web/static/js/main.6806c3c6.chunk.js",
+    "main.js.map": "/gawein-web/static/js/main.6806c3c6.chunk.js.map",
+    "runtime-main.js": "/gawein-web/static/js/runtime-main.91c3d32e.js",
+    "runtime-main.js.map": "/gawein-web/static/js/runtime-main.91c3d32e.js.map",
+    "static/css/2.bab3929a.chunk.css": "/gawein-web/static/css/2.bab3929a.chunk.css",
+    "static/js/2.a5622297.chunk.js": "/gawein-web/static/js/2.a5622297.chunk.js",
+    "static/js/2.a5622297.chunk.js.map": "/gawein-web/static/js/2.a5622297.chunk.js.map",
+    "index.html": "/gawein-web/index.html",
+    "static/css/2.bab3929a.chunk.css.map": "/gawein-web/static/css/2.bab3929a.chunk.css.map",
+    "static/css/main.77878fb9.chunk.css.map": "/gawein-web/static/css/main.77878fb9.chunk.css.map",
+    "static/js/2.a5622297.chunk.js.LICENSE.txt": "/gawein-web/static/js/2.a5622297.chunk.js.LICENSE.txt",
+    "static/media/caroesel.41d84077.jpg": "/gawein-web/static/media/caroesel.41d84077.jpg",
+    "static/media/App.css": "/gawein-web/static/media/fa-solid-900.eeccf4f6.woff",
+    "static/media/logo-gawein-white.381ec130.svg": "/gawein-web/static/media/logo-gawein-white.381ec130.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.91c3d32e.js",
+    "static/css/2.bab3929a.chunk.css",
+    "static/js/2.a5622297.chunk.js",
+    "static/css/main.77878fb9.chunk.css",
+    "static/js/main.6806c3c6.chunk.js"
+  ]
+}
