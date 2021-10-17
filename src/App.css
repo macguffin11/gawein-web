@@ -1,0 +1,37 @@
+@import "@fortawesome/fontawesome-free/css/all.min.css";
+@import "bootstrap/dist/css/bootstrap.min.css";
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&display=swap");
+
+:root {
+    --bs-theme-color: 21, 101, 192;
+}
+
+* {
+    font-family: "Open Sans", sans-serif;
+}
+
+.btn-outline-light {
+    color: #fff !important;
+    border-color: #fff !important;
+    border-width: 2px !important;
+    font-weight: 700 !important;
+}
+
+.btn-outline-light:hover {
+    color: rgb(var(--bs-theme-color)) !important;
+    background-color: #fff !important;
+    border-color: #fff !important;
+}
+
+.btn-outline-blue {
+    color: rgb(var(--bs-theme-color)) !important;
+    border-color: rgb(var(--bs-theme-color)) !important;
+    border-width: 2px !important;
+    font-weight: 700 !important;
+}
+
+.btn-outline-blue:hover {
+    color: #fff !important;
+    background-color: rgb(var(--bs-theme-color)) !important;
+    border-color: rgb(var(--bs-theme-color)) !important;
+}

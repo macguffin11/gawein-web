@@ -1,0 +1,12 @@
+:root {
+    --bs-theme-sidebar: 33, 35, 43;
+}
+
+.navbar-blue {
+    background-color: rgb(var(--bs-theme-color));
+    color: white !important;
+}
+
+.navbar-blue .btn .fas {
+    color: white !important;
+}

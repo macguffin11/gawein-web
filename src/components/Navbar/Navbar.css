@@ -1,0 +1,7 @@
+.bg-theme {
+    --bs-bg-opacity: 1;
+    background-color: rgba(
+        var(--bs-theme-color),
+        var(--bs-bg-opacity)
+    ) !important;
+}

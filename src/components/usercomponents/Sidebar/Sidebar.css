@@ -1,0 +1,21 @@
+[class*="sidebar-dark-"] {
+    background-color: rgb(var(--bs-theme-sidebar));
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item > .nav-link.active,
+.sidebar-light-primary .nav-sidebar > .nav-item > .nav-link.active {
+    background-color: rgba(var(--bs-theme-color), 0.4);
+    color: #fff;
+}
+
+.sidebar-dark-primary .nav-sidebar > .nav-item,
+.sidebar-light-primary .nav-sidebar > .nav-item {
+    margin-top: 0.3rem;
+}
+
+.brand-link .brand-image {
+    float: none;
+    display: flex;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
